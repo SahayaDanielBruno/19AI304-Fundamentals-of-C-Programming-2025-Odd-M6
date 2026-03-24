@@ -192,7 +192,7 @@ int main() {
 <img width="298" height="249" alt="image" src="https://github.com/user-attachments/assets/e2e17c02-a195-435c-9cc2-91405c54bd16" />
 
 # Result: 
-Thus, the program was implemented and executed successfully, and the required output was obtained.
+Thus, the program was implemented and executed successfully, and the required output was obtained. 
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M6
 # IAPR-6- Module 6 - FoC
